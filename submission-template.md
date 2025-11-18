@@ -248,9 +248,9 @@ The tests will run automatically on push to the repository. Check the Actions/CI
 
 If you have any questions about this submission, please contact:
 
-**Email**: [Your Email]
-**Phone**: [Your Phone Number]
-**Preferred Contact Time**: [Time Range]
+**Email**: [cto@ladsafrica.co.zw]
+**Phone**: [0774866456]
+**Preferred Contact Time**: [08:00 -  17:00]
 
 ---
 
