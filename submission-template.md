@@ -1,14 +1,14 @@
 # QA Assessment Submission Template
 
-**Candidate Name**: [Your Name]
+**Candidate Name**: [Tinotenda Zambara]
 
-**Email**: [Your Email]
+**Email**: [tzambara011@gmail.com]
 
-**Phone**: [Your Phone Number]
+**Phone**: [0784221092]
 
-**Submission Date**: [Date]
+**Submission Date**: [25 November 2025]
 
-**GitHub/GitLab Repository URL**: [Repository URL]
+**GitHub/GitLab Repository URL**: []
 
 
 
